@@ -1,0 +1,11 @@
+body {
+    padding:0;
+    margin: 0;
+}
+#nav-bar{
+    background-color: aqua;
+    align-items: center;
+}
+#nav-bar a{
+    
+}
